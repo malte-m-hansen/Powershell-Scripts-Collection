@@ -1,0 +1,1 @@
+Add-Printer -ConnectionName \\dkaapp-prn01\printer-ikast

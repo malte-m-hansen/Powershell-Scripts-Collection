@@ -1,0 +1,1 @@
+New-NetIPAddress -IPAddress 10.44.2.33 -DefaultGateway 10.44.1.1 -PrefixLength 16 -InterfaceIndex (Get-NetAdapter).InterfaceIndex
